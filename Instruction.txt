@@ -1,0 +1,20 @@
+Fracas is a facial recognition automated classroom attendance system.
+To use Fracas you need to follow these steps: 
+
+If your are not registered yet ( if you are registered go to #3)
+
+1. Click Add Face & Name to register your name and Id and to capture your face.(Put your namne inside a quotation mark like this: "Your Name")
+
+2. Click Train Recognizer to train the recognizer.
+
+3. Click Auto Attendance, wait for the recognizer to recognize you, it will automatically log you in the attendance log.
+
+4. To show the attendance log, Click Attendance Log.
+
+
+
+Extra Feature:
+
+Options:
+-Light Mode
+-Dark Mode

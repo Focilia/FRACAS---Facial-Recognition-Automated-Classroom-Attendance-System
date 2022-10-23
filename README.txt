@@ -1,0 +1,1 @@
+Open Fracas.py with any text editor(Sublime etc..) or any python IDE (pycharm etc..).
